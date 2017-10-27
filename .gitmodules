@@ -1,0 +1,79 @@
+[submodule "plugins/redmine_ckeditor"]
+	path = redmine_ckeditor
+	url = https://github.com/a-ono/redmine_ckeditor.git
+[submodule "plugins/redmine_tags"]
+	path = redmine_tags
+	url = https://github.com/ixti/redmine_tags.git
+[submodule "plugins/a_common_libs"]
+	path = a_common_libs
+	url = https://bitbucket.org/dkuk/a_common_libs.git
+	branch = rm3.4
+[submodule "plugins/ajax_counters"]
+	path = ajax_counters
+	url = https://bitbucket.org/dkuk/ajax_counters.git
+[submodule "plugins/clipboard_image_paste"]
+	path = clipboard_image_paste
+	url = https://github.com/peclik/clipboard_image_paste.git
+[submodule "plugins/quick_view"]
+	path = quick_view
+	url = git://git.sourceforge.jp/gitroot/quickedit/quick_view.git
+[submodule "plugins/recurring_tasks"]
+	path = recurring_tasks
+	url = https://github.com/daltinn/redmine-plugin-recurring-tasks.git
+[submodule "plugins/redmine_helpdesk"]
+	path = redmine_helpdesk
+	url = https://github.com/jfqd/redmine_helpdesk.git
+[submodule "plugins/redmine_issues_tree"]
+	path = redmine_issues_tree
+	url = git@github.com:daltinn/redmine_issues_tree.git
+[submodule "plugins/redmine_issue_templates"]
+	path = redmine_issue_templates
+	url = https://github.com/akiko-pusu/redmine_issue_templates.git
+[submodule "plugins/redmine_knowledgebase"]
+	path = redmine_knowledgebase
+	url = https://github.com/alexbevi/redmine_knowledgebase.git
+[submodule "plugins/redmine_lightbox2"]
+	path = redmine_lightbox2
+	url = https://github.com/paginagmbh/redmine_lightbox2.git
+[submodule "plugins/sidebar_hide"]
+	path = sidebar_hide
+	url = https://github.com/bdemirkir/sidebar_hide.git
+[submodule "plugins/redmine_theme_changer"]
+	path = redmine_theme_changer
+	url = https://github.com/haru/redmine_theme_changer.git
+[submodule "plugins/redmine_trello_card_sync"]
+	path = redmine_trello_card_sync
+	url = https://github.com/hiroshiyui/redmine_trello_card_sync.git
+[submodule "plugins/vault"]
+	path = vault
+	url = https://github.com/noshutdown-ru/vault
+[submodule "plugins/redmine_issue_dynamic_edit"]
+	path = redmine_issue_dynamic_edit
+	url = https://github.com/Ilogeek/redmine_issue_dynamic_edit.git
+[submodule "plugins/redmine_revision_branches"]
+	path = redmine_revision_branches
+	url = https://github.com/tleish/redmine_revision_branches.git
+[submodule "plugins/redmine_ics_export"]
+	path = redmine_ics_export
+	url = https://github.com/buschmais/redmics.git
+[submodule "public/themes/redmine_alex_skin"]
+	path = public/themes/redmine_alex_skin
+	url = https://bitbucket.org/dkuk/redmine_alex_skin.git
+[submodule "public/themes/flatly_light_redmine"]
+	path = public/themes/flatly_light_redmine
+	url = https://github.com/Nitrino/flatly_light_redmine.git
+[submodule "public/themes/axiom"]
+	path = public/themes/axiom
+	url = https://github.com/hulihanapplications/axiom.git
+[submodule "public/themes/redmine-theme-flat"]
+	path = public/themes/redmine-theme-flat
+	url = https://github.com/tsi/redmine-theme-flat.git
+[submodule "plugins/redmine_hourglass"]
+	path = redmine_hourglass
+	url = https://github.com/hicknhack-software/redmine_hourglass.git
+[submodule "plugins/time_logger"]
+	path = time_logger
+	url = https://github.com/speedy32129/time_logger.git
+[submodule "plugins/redmine_category_tree"]
+	path = redmine_category_tree
+	url = https://github.com/bap14/redmine_category_tree.git
