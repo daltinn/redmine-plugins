@@ -80,3 +80,17 @@
 [submodule "redmine_multiprojects_issue"]
 	path = redmine_multiprojects_issue
 	url = https://github.com/nanego/redmine_multiprojects_issue
+[submodule "unread_issues"]
+	path = unread_issues
+	url = https://bitbucket.org/dkuk/unread_issues.git
+[submodule "redmine_mentions"]
+	path = redmine_mentions
+	url = https://github.com/iMi-digital/redmine_mentions.git
+	branch = imi-version
+[submodule "mega_calendar"]
+	path = mega_calendar
+	url = https://github.com/berti92/mega_calendar.git
+
+[submodule "recurring-tasks"]
+	path = recurring-tasks
+	url = https://github.com/daltinn/redmine-plugin-recurring-tasks.git
