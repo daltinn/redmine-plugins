@@ -17,9 +17,6 @@
 [submodule "quick_view"]
 	path = quick_view
 	url = git://git.sourceforge.jp/gitroot/quickedit/quick_view.git
-[submodule "recurring_tasks"]
-	path = recurring_tasks
-	url = https://github.com/daltinn/redmine-plugin-recurring-tasks.git
 [submodule "redmine_helpdesk"]
 	path = redmine_helpdesk
 	url = https://github.com/jfqd/redmine_helpdesk.git
@@ -94,3 +91,23 @@
 [submodule "recurring-tasks"]
 	path = recurring-tasks
 	url = https://github.com/daltinn/redmine-plugin-recurring-tasks.git
+[submodule "stuff_to_do_plugin"]
+	path = stuff_to_do_plugin
+	url = https://github.com/neffets/redmine-stuff-to-do-plugin.git
+[submodule "redmine_my_roadmaps"]
+	path = redmine_my_roadmaps
+	url = https://github.com/clueware/redmine_my_roadmaps.git
+	branch = Redmine_3.4
+[submodule "release_logs"]
+	path = release_logs
+	url = https://github.com/eurailcom/release_logs.git
+	branch = version-qeueu
+[submodule "redmine_agile"]
+	path = redmine_agile
+	url = https://gitlab.com/redmine_plugins_nos/redmine_agile.git
+[submodule "redmine_checklists"]
+	path = redmine_checklists
+	url = https://gitlab.com/redmine_plugins_nos/redmine_checklists.git
+[submodule "redmine_contacts"]
+	path = redmine_contacts
+	url = https://gitlab.com/redmine_plugins_nos/redmine_contacts.git
