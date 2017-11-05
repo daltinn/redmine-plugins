@@ -111,3 +111,12 @@
 [submodule "redmine_contacts"]
 	path = redmine_contacts
 	url = https://gitlab.com/redmine_plugins_nos/redmine_contacts.git
+[submodule "advanced_roadmap"]
+	path = advanced_roadmap
+	url = https://gitlab.com/redmine_plugins_nos/advanced_roadmap.git
+[submodule "scrum"]
+	path = scrum
+	url = https://gitlab.com/redmine_plugins_nos/scrum.git
+[submodule "localizable"]
+	path = localizable
+	url = https://gitlab.com/redmine_plugins_nos/localizable.git
