@@ -111,3 +111,6 @@
 [submodule "redmine_contacts"]
 	path = redmine_contacts
 	url = https://gitlab.com/redmine_plugins_nos/redmine_contacts.git
+[submodule "redmine_issue_tabs"]
+	path = redmine_issue_tabs
+	url = https://gitlab.com/redmine_plugins_nos/redmine_issue_tabs.git
